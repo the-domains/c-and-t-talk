@@ -1,0 +1,28 @@
+name: 'C&T Talk'
+favicon: null
+layout_spectrum: 0.9238658540416509
+typography_spectrum: 0.9208844122476876
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5559216295368969
+  lightness: 0.3673639143817127
+  saturation: 0.839253663783893
+  rhythmicContrast: 0.6931336328852922
+purpose: []
